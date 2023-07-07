@@ -1,4 +1,6 @@
-<link rel=“stylesheet” type=“text/css” href="style-ref.css">
+<head>
+  <link rel="stylesheet" type="text/css" href="style-ref.css">
+</head>
 
 # Gonçalo Videira  
 
