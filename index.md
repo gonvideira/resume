@@ -4,10 +4,7 @@
 
 ![image](resume-photo.jpg)
 # Gonçalo Videira
-📞 +351 917 830 606 / 📧 [goncalovideira@hotmail.com](mailto:goncalovideira@hotmail.com) 
-📪 Lisbon, Portugal /   [LinkedIn profile](https://www.linkedin.com/in/goncalovideira/)
-
-  
+📞 +351 917 830 606 \| 📧 [goncalovideira@hotmail.com](mailto:goncalovideira@hotmail.com) \| 📪 Lisbon, Portugal \| [LinkedIn profile](https://www.linkedin.com/in/goncalovideira/)
 
 > this is still a work in progress, information is not up to date
 
@@ -20,21 +17,21 @@ Married and a father of two girls, I am lucky to be able to share my time betwee
 ## Working Experience
 
 #### MC Sonae / Vertical Integration Director
-📅 Jul 2022 – Present (7 months) / Lisbon, Portugal
+📅 Jul 2022 – Present (7 months) \| Lisbon, Portugal
 
 Leading a team at MC Sonae's new Vertical Integration area:
 *	Assessing more than 15 investment opportunities and developing projects in the fish and in the fruits categories;
 *	Secured financing and implementing an Aquaculture project that represents more than 18 million euros in investment. 
 
-#### MC Sonae / Wells / Weight Loss and Aesthetics Director
-📅 Apr 2021 – Jun 2022 (1 year 3 months) / Lisbon, Portugal
+#### MC Sonae \| Wells \| Weight Loss and Aesthetics Director
+📅 Apr 2021 – Jun 2022 (1 year 3 months) \| Lisbon, Portugal
 
 Leading a multi-functional team that drove the growth of Wells’ services businesses: 
 *	Wells’ Weight Loss business YES!diet: lead the turnaround of a business that was highly impacted by the pandemic’s lockdown; made portfolio and team changes to increase profitability and launched a new communication campaign and website to help bring this 2 million euro business back to growth; earned the “Prémio 5 Estrelas” for outstanding consumer satisfaction and the “Escolha do Consumidor” prizes;
 *	Well’s Aesthetics center: internalized the operation of 14 aesthetics centers (purchased from partner) and ensured a positive profitability in year 1.
 
-#### MC Sonae / Wells / New Business Development Manager
-📅 Mar 2017 – Mar 2021 (4 years) / Lisbon, Portugal
+#### MC Sonae \| Wells \| New Business Development Manager
+📅 Mar 2017 – Mar 2021 (4 years) \| Lisbon, Portugal
 
 * Launched Wells’ new weight loss program under the YES!diet brand, contributing to ~5% of store turnover in more than 40 stores.
 * Led the implementation of Plano de Saúde Wells’ health plan, achieving a base of ~100k clients, and led the negotiations for the launch of an insurance.
@@ -47,17 +44,17 @@ Leading a multi-functional team that drove the growth of Wells’ services busin
 
 ## Education & Qualifications
 
-* Insead / MBA (class of 2013)
+* Insead \| MBA (class of 2013)
   - Awarded full scholarship through merit-based Primus Interpares prize (1st place)
-* Católica Lisbon School of Business and Economics / Master of Science in Business (class of 2010)
+* Católica Lisbon School of Business and Economics \| Master of Science in Business (class of 2010)
   - Major in Strategy & Entrepreneurship 
   - Teaching Assistant of Mathematics during the curricular part of the Master
   - Dissertation: The challenge of corporate social responsibility in container shipping: The case of MSC Portugal, S.A. 
   - Awarded full scholarship through merit based Católica Top + program
-* Católica Lisbon School of Business and Economics / Bachelor of Science in Business Administration (class of 2008)
-  - Tilburg University / ERASMUS exchange program, The Netherlands (2007)
+* Católica Lisbon School of Business and Economics \| Bachelor of Science in Business Administration (class of 2008)
+  - Tilburg University \| ERASMUS exchange program, The Netherlands (2007)
   - Awarded full scholarship through merit based Católica Top + program
-* Técnico Lisboa / Biomedical Engineering (no degree awarded, 2002-05)
+* Técnico Lisboa \| Biomedical Engineering (no degree awarded, 2002-05)
 
 
 ## Misc. Information
