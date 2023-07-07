@@ -3,6 +3,7 @@
 </head>
 
 # Gonçalo Videira
+![image](resume-photo.jpg)
 
 > this is still a work in progress, information is not up to date
 
