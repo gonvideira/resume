@@ -10,8 +10,8 @@ tr:nth-child(even) {  background:#f0f0f0;  }
 ins { color:#890604 } 
 rem { color:#198964 }
 ul  { padding: 0 12px; }
-h1 { color:#0057b7; border-bottom:1px dotted  grey; font-size: 2.75rem; }
-h2 { color:#02a332; font-size: 2rem; }
+h1 { color:#0057b7; font-size: 2.75rem; }
+h2 { color:#02a332; border-bottom:1px dotted  grey; font-size: 2rem; }
 h3 { font-size: 1.65rem; }
 h4 { font-size: 1.25rem; }
 h5 { font-size: 1.1rem; }
@@ -24,4 +24,4 @@ h1,h2,h3,h4,h5,h6 {
 }
 .active { color:#0057b7  }
 li:hover { background:#f0f0f0 }
-img { float:right; width:38px; height:50px;}
+img { float:right; width:60px; height:80px;}
