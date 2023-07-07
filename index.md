@@ -4,7 +4,7 @@
 
 ![image](resume-photo.jpg)
 # Gonçalo Videira
-📞 +351 917 830 606 \| 📧 [goncalovideira@hotmail.com](mailto:goncalovideira@hotmail.com) \| 📪 Lisbon, Portugal \| [LinkedIn profile](https://www.linkedin.com/in/goncalovideira/)
+[LinkedIn profile](https://www.linkedin.com/in/goncalovideira/) \| 📧 [goncalovideira@hotmail.com](mailto:goncalovideira@hotmail.com) \| 📞 +351 917 830 606 \| 📪 Lisbon, Portugal
 
 > this is still a work in progress, information is not up to date
 
@@ -14,10 +14,18 @@ I am a highly motivated and experienced leader with a strong commercial and entr
 I have a growth mindset and am always looking for opportunities to learn new skills both at a professional and personal level. What I love the most about my job is that it allows me to learn from the people I work with and teams I lead, while at the same time allowing me to share my experience and improve the performance of the businesses I work with. 
 Married and a father of two girls, I am lucky to be able to share my time between work, family and hobbies. We love to travel together and see novel places and I am an avid kitesurfer. 
 
+<!-- 
+## Key skills
+
+* skill 1
+* skill 2
+
+-->
+
 ## Working Experience
 
-#### MC Sonae / Vertical Integration Director
-📅 Jul 2022 – Present (7 months) \| Lisbon, Portugal
+#### MC Sonae \| Vertical Integration Director
+📅 Jul 2022 – Present (12 months) \| Lisbon, Portugal
 
 Leading a team at MC Sonae's new Vertical Integration area:
 *	Assessing more than 15 investment opportunities and developing projects in the fish and in the fruits categories;
@@ -36,11 +44,51 @@ Leading a multi-functional team that drove the growth of Wells’ services busin
 * Launched Wells’ new weight loss program under the YES!diet brand, contributing to ~5% of store turnover in more than 40 stores.
 * Led the implementation of Plano de Saúde Wells’ health plan, achieving a base of ~100k clients, and led the negotiations for the launch of an insurance.
 
+#### L’Oréal \| Consumer Products Division \| Marketing Manager Skin Care
+📅 Nov 2015 – Feb 2017 (1 year 4 months) \| Lisbon, Portugal
 
+* Defined and guided the country category and brand strategy consistent with the international brand positioning and the country’s priorities to contribute to continued growth of the brand and the consumer relationship.
+* Managed a local marketing team to deliver Marketing Campaigns that drove Market Share and Business growth (+5% in value). 
+
+#### Microsoft \| Central & Eastern Europe \| Business Development Manager
+📅 Feb 2014 – Oct 2015 (1 year 9 months) \| Munich, Germany
+
+Leading a Strategic Business Development Project with Mobile Operators for 25 countries of Central & Eastern Europe:  
+* Designed a plan and lead a partner sales executives’ team across 9 markets to develop Mobile Operators as non-traditional channels for Cloud & Devices solutions, delivering an ROI of more than 1:10 (for a $350K marketing investment)
+*	Lead the Integration of Nokia and Microsoft teams and developed the Operator Governance model that brought transparency and accountability to all teams involved in projects with Mobile Operators in the region 
+*	Received “FY15 Q3 Transforming CEE Multi Country Subregion Award” 
+
+#### Microsoft \| Central & Eastern Europe \| Windows Product Marketing Manager
+📅 Feb 2014 – Oct 2015 (1 year 9 months) \| Munich, Germany
+
+Supported the Windows Business Group Director for 25 countries of Central and Eastern Europe:  
+* Developed the reporting and forecasting infrastructure for the Windows team, improving transparency and accountability for our Windows Tablets scorecard – this enabled the team to over-deliver on Windows Scorecard and to win the Subsidiary Cup
+* Designed the analytical model for a three-year growth plan for the region and developed a strategy to increase Windows Phone share by 15 share points by leveraging a POME approach for key emerging markets
+* Received “FY15 Circle of Excellence Gold Club Award”
+
+#### Procter & Gamble \| Salon Professional \| Global Assistant Brand Manager
+📅 Out 2010 – Nov 2012 (2 years 2 months) | Geneva, Switzerland
+
+Global Assistant Brand Manager Leading a multi-functional and geographically dispersed team at the Global Business Unit for the Professional Hair Care category: 
+* Led the brand expansion into the Asian and South American markets, contributing to more than $15 MM in incremental sales
+*	Global team's knowledge holder on emerging markets for brand equity, competitive intelligence and consumer insights, increasing communication and cooperation across the global, regional and local teams
+*	Developed a category portfolio strategy, which uncovered opportunities for growth in the permanent styling business (+50%)
+*	Created a value tier strategy, which revealed an incremental sales opportunity of more than $20 MM
+*	Received "FY13 Q1 Responsiveness Power of You Award"
+
+#### Unilever \| Olive Oil business (Gallo Worldwide) \| Marketing Trainee
+📅 Aug 2009 – Jan 2010 (6 months) \| Lisbon, Portugal
+
+* Implemented a pricing strategy that contributed to a 10% bottom-line improvement.
+* Designed and implemented merchandising initiatives critical in defending the brand's competitive position.
+
+<!-- 
 ## Projects
 
 * project 1
 * project 2
+
+-->
 
 ## Education & Qualifications
 
