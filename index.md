@@ -1,5 +1,5 @@
 
-<link href="style-ref.css" rel="stylesheet"></link>
+<link href="style-ref.css" rel="stylesheet"/>
 
 # Gonçalo Videira  
 
