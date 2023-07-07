@@ -24,3 +24,8 @@ h1,h2,h3,h4,h5,h6 {
 .active { color:#0057b7  }
 li:hover { background:#f0f0f0 }
 img { float:right; width:60px; height:80px;}
+.markdown-body h1 {
+    padding-bottom: 0.3em;
+    font-size: 2em;
+    border-bottom: 0px;
+}
