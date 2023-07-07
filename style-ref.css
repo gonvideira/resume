@@ -1,27 +1,26 @@
-.markdown code { background:#f0f0f0; color:navy; border-radius:6px; padding:2px; } 
-.markdown pre  { background:#f0f0f0; margin:12px; border:1px solid #ddd; padding:20px 12px; border-radius:6px; } 
-.markdown pre:hover button { display:block; }
-.markdown pre button { display:none; position:relative; float:right; top:-16px }
-.markdown blockquote { background:#f0f0f0; border-left:6px solid grey; padding:8px }
-.markdown table { margin:12px; border-collapse: collapse; }
-.markdown th    { border:1px solid grey; background:lightgrey; padding:6px; } 
-.markdown td    { border:1px solid grey;  padding:6px; }
-.markdown tr:nth-child(even) {  background:#f0f0f0;  }
-.markdown ins { color:#890604 } 
-.markdown rem { color:#198964 }
-.markdown ul  { padding: 0 12px; }
-.markdown h1,h2,h3,h4,h5,h6 {
+code { background:#f0f0f0; color:navy; border-radius:6px; padding:2px; } 
+pre  { background:#f0f0f0; margin:12px; border:1px solid #ddd; padding:20px 12px; border-radius:6px; } 
+pre:hover button { display:block; }
+pre button { display:none; position:relative; float:right; top:-16px }
+blockquote { background:#f0f0f0; border-left:6px solid grey; padding:8px }
+table { margin:12px; border-collapse: collapse; }
+th    { border:1px solid grey; background:lightgrey; padding:6px; } 
+td    { border:1px solid grey;  padding:6px; }
+tr:nth-child(even) {  background:#f0f0f0;  }
+ins { color:#890604 } 
+rem { color:#198964 }
+ul  { padding: 0 12px; }
+h1 { color:#0057b7; border-bottom:1px dotted  grey; font-size: 2.75rem; }
+h2 { color:#02a332; font-size: 2rem; }
+h3 { font-size: 1.65rem; }
+h4 { font-size: 1.25rem; }
+h5 { font-size: 1.1rem; }
+h6 { font-size: 1rem; }
+h1,h2,h3,h4,h5,h6 {
 	line-height: 1;
 	margin: 0;
 	margin-top: 1.5rem;
 	text-rendering: optimizeLegibility;
 }
-.markdown h1 { color:#0057b7; border-bottom:1px dotted  grey; font-size: 2.75rem; }
-.markdown h2 { font-size: 2rem; }
-.markdown h3 { font-size: 1.65rem; }
-.markdown h4 { font-size: 1.25rem; }
-.markdown h5 { font-size: 1.1rem; }
-.markdown h6 { font-size: 1rem; }
-
-.markdown .active { color:#0057b7  }
-.markdown li:hover { background:#f0f0f0 }
+.active { color:#0057b7  }
+li:hover { background:#f0f0f0 }
