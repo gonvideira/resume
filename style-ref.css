@@ -10,7 +10,7 @@ tr:nth-child(even) {  background:#f0f0f0;  }
 ins { color:#890604 } 
 rem { color:#198964 }
 ul  { padding: 0 12px; }
-h1 { color:#0057b7; font-size: 2.75rem; }
+h1 { color:#0057b7; font-size: 2.75rem; border-bottom: none; }
 h2 { color:#02a332; border-bottom:1px dotted  grey; font-size: 2rem; }
 h3 { font-size: 1.65rem; }
 h4 { font-size: 1.25rem; }
