@@ -25,7 +25,7 @@ Married and a father of two girls, I am lucky to be able to share my time betwee
 ## Working Experience
 
 #### MC Sonae \| Vertical Integration Director
-📅 Jul 2022 – Present (12 months) \| Lisbon, Portugal
+📅 Jul 2022 – Present ({{MONTHSINPOSITION}} months) \| Lisbon, Portugal
 
 Leading a team at MC Sonae's new Vertical Integration area:
 *	Assessing more than 15 investment opportunities and developing projects in the fish and in the fruits categories;
