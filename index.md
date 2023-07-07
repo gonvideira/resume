@@ -1,5 +1,4 @@
-
-<link href="style-ref.css" rel="stylesheet"/>
+<link rel=“stylesheet” type=“text/css” href="style-ref.css">
 
 # Gonçalo Videira  
 
