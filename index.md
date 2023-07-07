@@ -5,6 +5,8 @@
 ![image](resume-photo.jpg)
 # Gonçalo Videira
 
+  
+
 > this is still a work in progress, information is not up to date
 
 ## Executive Summary
