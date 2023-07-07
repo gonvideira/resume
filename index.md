@@ -4,7 +4,7 @@
 
 ![image](resume-photo.jpg)
 # Gonçalo Videira
-[LinkedIn profile](https://www.linkedin.com/in/goncalovideira/) \| 📧 [goncalovideira@hotmail.com](mailto:goncalovideira@hotmail.com) \| 📞 +351 917 830 606 \| 📪 Lisbon, Portugal
+[LinkedIn](https://www.linkedin.com/in/goncalovideira/) \| 📧 [goncalovideira@hotmail.com](mailto:goncalovideira@hotmail.com) \| 📞 +351 917 830 606 \| 📪 Lisbon, Portugal
 
 > this is still a work in progress, information is not up to date
 
