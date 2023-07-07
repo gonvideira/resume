@@ -2,8 +2,8 @@
   <link rel="stylesheet" type="text/css" href="style-ref.css">
 </head>
 
-# Gonçalo Videira
 ![image](resume-photo.jpg)
+# Gonçalo Videira
 
 > this is still a work in progress, information is not up to date
 
