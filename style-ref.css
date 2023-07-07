@@ -27,5 +27,5 @@ img { float:right; width:60px; height:80px;}
 .markdown-body h1 {
     padding-bottom: 0.3em;
     font-size: 2em;
-    border-bottom: 0px;
+    border-bottom: 0px !important;
 }
